@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="">
+      <option name="address" value="registry-testing.kazan.atosworldline.com" />
+      <option name="name" value="Docker Registry TO" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>
