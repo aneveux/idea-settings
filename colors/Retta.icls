@@ -1,7 +1,7 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="0.9166667" />
   <metaInfo>
-    <property name="modified">2017-05-10T17:36:22</property>
+    <property name="modified">2017-05-11T18:36:08</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -590,6 +590,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JAVA_PARENTH">
+      <value>
+        <option name="FOREGROUND" value="f8e1aa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="d75453" />
@@ -665,6 +671,12 @@
       <value>
         <option name="FOREGROUND" value="f8e1a3" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fff663" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
