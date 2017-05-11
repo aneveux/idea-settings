@@ -1,7 +1,7 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="0.9166667" />
   <metaInfo>
-    <property name="modified">2017-05-11T18:36:08</property>
+    <property name="modified">2017-05-11T19:00:44</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -659,6 +659,31 @@
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="f253aa" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="20a6f5" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="e4f456" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="62f190" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="9fe4f2" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
