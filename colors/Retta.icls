@@ -1,7 +1,7 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="0.9166667" />
   <metaInfo>
-    <property name="modified">2017-05-11T19:00:44</property>
+    <property name="modified">2017-06-16T17:35:50</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -541,7 +541,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5e5c56" />
         <option name="ERROR_STRIPE_COLOR" value="5e5c56" />
       </value>
     </option>
@@ -688,7 +687,6 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5e5c56" />
         <option name="ERROR_STRIPE_COLOR" value="5e5c56" />
       </value>
     </option>
@@ -723,7 +721,6 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="395eb1" />
         <option name="ERROR_STRIPE_COLOR" value="395eb1" />
       </value>
     </option>
@@ -760,13 +757,11 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="527d5d" />
         <option name="ERROR_STRIPE_COLOR" value="527d5d" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="527d5d" />
         <option name="ERROR_STRIPE_COLOR" value="527d5d" />
       </value>
     </option>
