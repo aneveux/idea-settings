@@ -1,14 +1,11 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="0.9166667" />
   <metaInfo>
-    <property name="modified">2017-06-16T17:35:50</property>
+    <property name="modified">2017-07-31T16:08:23</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
