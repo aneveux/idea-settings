@@ -5,7 +5,6 @@
     <option name="PROXY_PORT" value="3128" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1,priv.atos.fr,10.90.250.6,kazan.priv.atos.fr" />
-    <option name="USE_PAC_URL" value="true" />
     <option name="PAC_URL" value="http://wpad/wpad.dat" />
   </component>
 </application>
