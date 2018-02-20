@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xmx1024m -DproxySet=true -DproxyHost=proxy-prod.priv.atos.fr -DproxyPort=3128 " embedderJdk="sdkman_java_current" mavenHome="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+  <component name="MavenVersion" vmOptions="-Xmx1024m -DproxySet=true -DproxyHost=proxy-prod.priv.atos.fr -DproxyPort=3128 " embedderJdk="sdkman_java_current" />
 </application>
