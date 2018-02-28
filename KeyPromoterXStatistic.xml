@@ -33,6 +33,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Replace...">
+        <Item>
+          <IdeaActionID>Replace</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Replace...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in approvals-java'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
