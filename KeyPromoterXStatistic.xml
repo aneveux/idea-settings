@@ -1,14 +1,6 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
-          <Description>Copy</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -22,15 +14,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Maven Projects">
-        <Item>
-          <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
-          <ShortCut>'Alt+à'</ShortCut>
-          <Description>Maven Projects</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -39,22 +23,6 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>16</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Replace...">
-        <Item>
-          <IdeaActionID>Replace</IdeaActionID>
-          <ShortCut>'Ctrl+R'</ShortCut>
-          <Description>Replace...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'All in approvals-java'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'All in approvals-java'</Description>
-          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApproveString.verifySimpleString'">
@@ -94,15 +62,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Reword...">
-        <Item>
-          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
-          <ShortCut>'F2' or 'Shift+F6'</ShortCut>
-          <Description>Reword...</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -126,7 +86,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'java-xml-transform [clean,jaxb2:xjc]'">
@@ -137,28 +97,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'Alt+6' or 'Alt+Minus'</ShortCut>
-          <Description>TODO</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Toggle Case">
-        <Item>
-          <IdeaActionID>EditorToggleCase</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+U'</ShortCut>
-          <Description>Toggle Case</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Version Control">
         <Item>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>15</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>

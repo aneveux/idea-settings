@@ -34,12 +34,6 @@
             <Goal>
               <option name="commandLine" value="gatling:test -Dgatling.simulationClass=demo.RecordedSimulation" />
             </Goal>
-            <Goal>
-              <option name="commandLine" value="cobertura:cobertura" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="javadoc:javadoc" />
-            </Goal>
           </list>
         </option>
       </Goals>
