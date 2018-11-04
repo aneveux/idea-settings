@@ -81,14 +81,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Messages">
-        <Item>
-          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
-          <ShortCut>'Alt+0'</ShortCut>
-          <Description>Messages</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Open Module Settings">
         <Item>
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
@@ -110,7 +102,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>19</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -127,14 +119,6 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'All in approvals-java'</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'All in euler_test'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'All in euler_test'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApproveString.verifySimpleString'">
@@ -206,7 +190,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>4</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main'">
@@ -238,7 +222,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>14</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -265,6 +249,14 @@
           <Count>102</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in euler_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'All in euler_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Jouer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -281,20 +273,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'Alt+6' or 'Alt+Minus'</ShortCut>
-          <Description>TODO</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
