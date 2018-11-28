@@ -281,6 +281,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ValidatorApplication'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'java-xml-transform [clean,jaxb2:xjc]'">
