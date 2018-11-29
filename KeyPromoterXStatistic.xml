@@ -169,12 +169,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MessageAcknowledgmentApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MessageAcknowledgmentApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MessageProcessorApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'MessageProcessorApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TestProblem37.testProblem37Solution'">
@@ -214,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'com.worldline.tobacco.validator.ValidatorApplicationKt'</Description>
-          <Count>5</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -270,7 +278,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'MessageProcessorApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.worldline.trainings.tdd''">
@@ -345,12 +353,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MessageAcknowledgmentApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MessageAcknowledgmentApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MessageProcessorApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MessageProcessorApplication'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestSpecial.testIsLeftTruncatablePrime'">
@@ -367,6 +383,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ValidatorApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.worldline.tobacco.validator.ValidatorApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.worldline.tobacco.validator.ValidatorApplicationKt'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'java-xml-transform [clean,jaxb2:xjc]'">
