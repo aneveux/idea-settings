@@ -10,6 +10,10 @@
           <option name="url" value="http://git-iut.univ-lille1.fr" />
           <option name="userName" value="conging" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://forge.univ-artois.fr" />
+          <option name="userName" value="antoine.neveux@worldline.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
