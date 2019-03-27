@@ -142,7 +142,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -271,6 +271,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'com.github.aneveux.euler.ProblemsKt'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.worldline.sdco.ConfigurationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'com.worldline.sdco.ConfigurationKt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.worldline.sdco.HelloKt'">
