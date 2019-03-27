@@ -273,6 +273,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.worldline.sdco.BaltigKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'com.worldline.sdco.BaltigKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.worldline.sdco.ConfigurationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -287,6 +295,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'com.worldline.sdco.HelloKt'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.worldline.sdco.baltig.BaltigKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'com.worldline.sdco.baltig.BaltigKt'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.worldline.tobacco.validator.ValidatorApplicationKt'">
@@ -326,7 +342,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4' or 'Alt+Quote'</ShortCut>
           <Description>Run</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -497,6 +513,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.worldline.sdco.baltig.BaltigKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.worldline.sdco.baltig.BaltigKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.worldline.tobacco.validator.ValidatorApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -526,7 +550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'TomEE 9.0.12' application">
