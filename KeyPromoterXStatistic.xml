@@ -302,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'com.worldline.sdco.baltig.BaltigKt'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.worldline.tobacco.validator.ValidatorApplicationKt'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'com.worldline.sdco.baltig.BaltigKt'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -526,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'com.worldline.sdco.baltig.BaltigKt'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.worldline.tobacco.validator.ValidatorApplicationKt'">
