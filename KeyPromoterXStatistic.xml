@@ -537,6 +537,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.worldline.bbtex.ApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.worldline.bbtex.ApplicationKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.worldline.sdco.HelloKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
