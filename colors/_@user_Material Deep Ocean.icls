@@ -4,7 +4,7 @@
     <property name="created">2018-10-31T00:22:58</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-27T16:45:57</property>
+    <property name="modified">2019-06-27T11:30:24</property>
     <property name="originalScheme">Material Deep Ocean</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -1376,12 +1376,6 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
         <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
