@@ -1,7 +1,7 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-07-29T15:36:02</property>
+    <property name="modified">2019-08-07T14:08:28</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -672,8 +672,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="f900e5" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
