@@ -1,8 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="compactTables" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -12,9 +9,9 @@
     <option name="pristineConfig" value="false" />
     <option name="indicatorThickness" value="1" />
     <option name="settingsSelectedTab" value="1" />
-    <option name="accentColor" value="63a9f1" />
+    <option name="accentColor" value="ff79c5" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="3907b19a:166c7458416:-8000" />
     <option name="version" value="4.11.5" />
   </component>
