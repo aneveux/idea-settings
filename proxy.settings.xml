@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxy-internet.localnet" />
+    <option name="PROXY_PORT" value="3128" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1,priv.atos.fr,kazan.priv.atos.fr" />
+    <option name="PAC_URL" value="http://wpad/wpad.dat" />
+  </component>
+</application>
