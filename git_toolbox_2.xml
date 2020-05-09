@@ -1,6 +1,5 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="presentationMode" value="text" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
@@ -20,6 +19,8 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="presentationMode" value="text" />
     <option name="previousVersionMigrated" value="true" />
+    <option name="version" value="2" />
   </component>
 </application>
