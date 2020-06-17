@@ -1,7 +1,7 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-06-09T16:18:32</property>
+    <property name="modified">2020-06-17T17:06:03</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -621,8 +621,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="8bb965" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -653,7 +653,7 @@
     </option>
     <option name="RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="b93c87" />
+        <option name="FOREGROUND" value="c68ed3" />
       </value>
     </option>
     <option name="RAINBOW_COLOR1">
@@ -673,7 +673,7 @@
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="d75453" />
+        <option name="FOREGROUND" value="9bd779" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
