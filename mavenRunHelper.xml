@@ -1,0 +1,43 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="goals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="clean" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -U" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="license:format" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="release:prepare" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="release:perform" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="docker:build" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -Dintegration-tests" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="test" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="gatling:test -Dgatling.simulationClass=demo.RecordedSimulation" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</application>
