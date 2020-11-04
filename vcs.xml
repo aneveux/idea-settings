@@ -14,6 +14,10 @@
           <option name="url" value="http://forge.univ-artois.fr" />
           <option name="userName" value="antoine.neveux@worldline.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.univ-artois.fr" />
+          <option name="userName" value="antoine.neveux@worldline.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
@@ -26,5 +30,8 @@
         <option value="3" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
