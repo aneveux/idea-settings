@@ -39,6 +39,9 @@
             </value>
           </option>
         </JavaCodeStyleSettings>
+        <JetCodeStyleSettings>
+          <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+        </JetCodeStyleSettings>
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
         </XML>
@@ -241,12 +244,10 @@
           </arrangement>
         </codeStyleSettings>
         <codeStyleSettings language="kotlin">
+          <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
           <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
           <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-          <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
           <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-          <option name="CALL_PARAMETERS_WRAP" value="5" />
-          <option name="METHOD_PARAMETERS_WRAP" value="5" />
         </codeStyleSettings>
       </value>
     </option>
