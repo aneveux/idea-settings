@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/SETTINGS/1.1.0" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/extResources/d9da5963_settings-1.1.0.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/32b10bb8_dbchangelog-3.1.xsd.xml" />
   </component>
 </application>
